@@ -58,26 +58,16 @@
 
 ---
 
-## 🤝 如何参与贡献
+## 🤝 项目预览
 
-欢迎提出 Issue 或提交 PR，一起打造更好的办公资源平台：
 
-```bash
-# 克隆本项目
-git clone https://github.com/qingjiuzhubei/daogebangong.git
+<img width="1859" alt="image" src="https://github.com/user-attachments/assets/844a1508-790e-4a82-97d8-1c0f1cdca7be" />
 
-# 安装依赖
-composer install
-npm install && npm run dev
+<img width="1621" alt="image" src="https://github.com/user-attachments/assets/e77e3713-796d-42f1-9886-efd52fdc976d" />
 
-# 配置环境文件
-cp .env.example .env
-php artisan key:generate
+<img width="1834" alt="image" src="https://github.com/user-attachments/assets/2e85a4a1-c20a-4335-9b41-ba2f7ac9a381" />
 
-# 启动开发服务器
-php artisan serve
 
-## 项目预览
 
-![Uploading image.png…]()
+
 
