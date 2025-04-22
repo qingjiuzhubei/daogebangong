@@ -77,6 +77,7 @@ php artisan key:generate
 # 启动开发服务器
 php artisan serve
 
+## 项目预览
 
+![Uploading image.png…]()
 
-<img width="1519" alt="image" src="https://github.com/user-attachments/assets/314bd9bc-fd21-443d-88a1-de5d8ff7b3cd" />
